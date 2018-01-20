@@ -1,0 +1,88 @@
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\LabTest05.dll.config
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\LabTest05.dll
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\LabTest05.pdb
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Helpers.dll
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Mvc.dll
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Razor.dll
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Webpages.Deployment.dll
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Webpages.dll
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Webpages.Razor.dll
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Razor.xml
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Webpages.xml
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Webpages.Deployment.xml
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Webpages.Razor.xml
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Helpers.xml
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\bin\System.Web.Mvc.xml
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\obj\Debug\LabTest05.csprojResolveAssemblyReference.cache
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\obj\Debug\LabTest05.dll
+c:\users\bdjobs\documents\visual studio 2013\Projects\LabTest05\LabTest05\obj\Debug\LabTest05.pdb
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\LabTest05.dll.config
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\LabTest05.dll
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\LabTest05.pdb
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Helpers.dll
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Mvc.dll
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Razor.dll
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Webpages.dll
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Razor.xml
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Webpages.xml
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Helpers.xml
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\bin\System.Web.Mvc.xml
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\obj\Debug\LabTest05.csprojResolveAssemblyReference.cache
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\obj\Debug\LabTest05.dll
+C:\Users\Bdjobs\Desktop\dotNet05\LabTest05\LabTest05\obj\Debug\LabTest05.pdb
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\LabTest05.dll.config
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\LabTest05.dll
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\LabTest05.pdb
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Helpers.dll
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Mvc.dll
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Razor.dll
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Webpages.Deployment.dll
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Webpages.dll
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Webpages.Razor.dll
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Razor.xml
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Webpages.xml
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Webpages.Deployment.xml
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Webpages.Razor.xml
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Helpers.xml
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\bin\System.Web.Mvc.xml
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\obj\Debug\LabTest05.csprojResolveAssemblyReference.cache
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\obj\Debug\LabTest05.dll
+I:\.NET Training\Problem Practices\LabTest05\LabTest05\obj\Debug\LabTest05.pdb
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\LabTest05.dll.config
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\LabTest05.dll
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\LabTest05.pdb
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Helpers.dll
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Razor.dll
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Webpages.dll
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Webpages.Razor.dll
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Razor.xml
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Webpages.xml
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Webpages.Razor.xml
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\bin\System.Web.Helpers.xml
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\obj\Debug\LabTest05.csprojResolveAssemblyReference.cache
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\obj\Debug\LabTest05.dll
+C:\Users\Bdjobs\Desktop\LabTest05(New)\LabTest05\obj\Debug\LabTest05.pdb
+G:\dotnet\LabTest05(New)\LabTest05\bin\LabTest05.dll.config
+G:\dotnet\LabTest05(New)\LabTest05\bin\LabTest05.dll
+G:\dotnet\LabTest05(New)\LabTest05\bin\LabTest05.pdb
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Helpers.dll
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Mvc.dll
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Razor.dll
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Webpages.Deployment.dll
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Webpages.dll
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Webpages.Razor.dll
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Razor.xml
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Webpages.xml
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Webpages.Deployment.xml
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Webpages.Razor.xml
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Helpers.xml
+G:\dotnet\LabTest05(New)\LabTest05\bin\System.Web.Mvc.xml
+G:\dotnet\LabTest05(New)\LabTest05\obj\Debug\LabTest05.csprojResolveAssemblyReference.cache
+G:\dotnet\LabTest05(New)\LabTest05\obj\Debug\LabTest05.dll
+G:\dotnet\LabTest05(New)\LabTest05\obj\Debug\LabTest05.pdb

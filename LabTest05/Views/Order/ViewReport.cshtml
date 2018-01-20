@@ -1,0 +1,161 @@
+﻿@model LabTest05.Models.ViewModels.ViewReportVM
+@using LabTest05.Models
+
+@{
+    Layout = null;
+    List<ItemViewVM> itemList = ViewBag.Items;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+    <title>ViewReport</title>
+</head>
+<body>
+    <div align="center">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+                <h4>OrderFoodVM</h4>
+                <hr />
+                @Html.ValidationSummary(true)
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.MemberId, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.DropDownListFor(model => model.MemberId, ViewBag.Members as IEnumerable<SelectListItem>, "Select...")
+                        @Html.ValidationMessageFor(model => model.MemberId)
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Name, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Name)
+                        @Html.ValidationMessageFor(model => model.Name)
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Email, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Email)
+                        @Html.ValidationMessageFor(model => model.Email)
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.ContactNo, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.ContactNo)
+                        @Html.ValidationMessageFor(model => model.ContactNo)
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.TypeId, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.TypeId)
+                        @Html.ValidationMessageFor(model => model.TypeId)
+                    </div>
+                </div>
+
+                
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.OrderDate, new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.OrderDate)
+                        @Html.ValidationMessageFor(model => model.OrderDate)
+                    </div>
+                </div>
+                
+                
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input id="saveBtn" type="submit" value="Create" class="btn btn-default" />
+                    </div>
+                </div>
+            </div>
+            
+            
+        }
+        <div class="form-group">
+            @Html.LabelFor(model => model.TotalAmount, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.TextBoxFor(model => model.TotalAmount, new { @Value = ViewBag.Tot} )
+                @Html.ValidationMessageFor(model => model.TotalAmount)
+            </div>
+        </div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Item Name</th>
+                    <th>Quantity</th>
+                    <th>Total</th>
+                </tr>
+                
+            </thead>
+            <tbody>
+                @foreach (var item in itemList)
+                {
+                    <tr>
+                        <td>@item.ItemName</td>
+                        <td>@item.Quantity</td>
+                        <td>@item.TotalPrice</td>
+                    </tr>
+                }
+                
+            </tbody>
+        </table>
+    </div>
+    <script src="~/Scripts/jquery-1.12.4.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            $("#OrderDate").datepicker({
+                changeMonth: true,
+                changeYear: true
+            });
+
+            $("#MemberId").change(function () {
+
+                var mbrId = $("#MemberId").val();
+
+
+                $.ajax({
+
+                    url: '@Url.Action("GetMemberById", "Order")',
+                    data: {
+                        id: mbrId
+                    },
+                    contentType: "application/json; charset=utf-8",
+
+                    success: function (member) {
+
+                        $("#Name").val(member.Name);
+                        $('#Email').val(member.Email);
+                        $("#ContactNo").val(member.ContactNo);
+                        $('#TypeId').val(member.TypeId);
+
+                    }
+                });
+            });
+
+
+            $("#saveBtn").onclick(function() {
+
+
+            });
+        });
+    </script>
+</body>
+</html>
